@@ -1,5 +1,5 @@
 /////////////////////////////////////
-/*Input: 1 2 3 4 5
+/*Input: --
 *Output: 
          Base class
          value of A in base clase 10
