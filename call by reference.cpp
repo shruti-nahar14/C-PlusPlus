@@ -1,5 +1,5 @@
 /////////////////////////////////////
-*Function:void arr(int[],int&);
+/*Function:void arr(int[],int&);
 *Input: 1 2 3 4 5
 *Output: elements of array:
          1
@@ -9,8 +9,8 @@
          5
          Sum is 15
 *Description:Display the elements array and perform addititon on it:-use of call by reference
-*Date:2-June-2021
-*Author: Shruti Nahar 
+*Date:06-09-2021
+*Author: Shruti Nahar */
 /////////////////////////////////////////
 #include<iostream>
 using namespace std;
