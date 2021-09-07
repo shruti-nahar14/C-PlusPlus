@@ -1,4 +1,4 @@
-///////////////////////////////////////
+////////////////////////////////////////
 /*Input:5
 *Output:five
 *Description:Enter the number and display its spelling if<9 else display Greater than 9
