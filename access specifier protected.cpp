@@ -9,7 +9,7 @@
 *Description:Implementation of protected access specifier
 *Date:06-09-2021
 *Author: Shruti Nahar */
-/////////////////////////////////////////
+//////////////////////////////////////////
 #include<iostream>
 using namespace std;
 class A
