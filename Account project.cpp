@@ -11,6 +11,23 @@ enter the acc no103
 enter the customer nameprachi
 enter the balance6000
 
+enter the acc no of transcation102
+
+ 1 deposit
+ 2.withdraw
+enter your choice 2
+
+ enter the amount for the withdraw 500
+ 
+ Do you want to continue press 1
+1
+
+enter your choice 1
+
+enter the amount to deposit
+1000
+Do you want to continue press 1
+2
 Output:-
 
 ------------------Account Details--------------------
@@ -56,34 +73,16 @@ Acc Balance6000
 Customer nameprachi
 
 -----------------------------------------------------------------------
-enter the acc no of transcation102
-
- 1 deposit
- 2.withdraw
-enter your choice 2
-
- enter the amount for the withdraw 500
 
 ----------------------------AFTER WITHDRAW-------------------------------
 Acc no:102
 Acc Balance2500
 Customer nameshubham
 
- Do you want to continue press 1
-1
-
-enter your choice 1
-
-enter the amount to deposit
-1000
-
 -------------------------AFTER DEPOSIT-----------------------------
 Acc no:102
 Acc Balance3500
 Customer nameshubham
-
- Do you want to continue press 1
- 2
 Description:-Implementation of Account Operation 
 Author name:-Shruti Nahar
 Date:-10-09-2021
