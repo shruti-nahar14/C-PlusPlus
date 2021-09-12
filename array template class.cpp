@@ -1,3 +1,8 @@
+/*Input--
+output:
+Description:-Array as a template class
+Date:-12-09-2021
+Author name: Shruti Nahar*/
 #include<iostream>
 using namespace std;
 #define MAX 5 
