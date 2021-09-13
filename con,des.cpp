@@ -1,3 +1,45 @@
+/////////////////////////////////////
+/*Input:--
+*Output:
+ call of default constructor
+
+ Call of Parameterized constructor
+
+ Call of Parameterized constructor
+
+ Call of copy constructor
+
+---------------------------------------------------------------
+ Employee id : 100
+ Employee name : raj
+ Employee sal : 5000
+
+---------------------------------------------------------------
+ Employee id : 101
+ Employee name : Shruti
+ Employee sal : 10000
+
+---------------------------------------------------------------
+ Employee id : 102
+ Employee name : sheetal
+ Employee sal : 20000
+
+---------------------------------------------------------------
+ Employee id : 101
+ Employee name : Shruti
+ Employee sal : 10000
+
+Destructor is called
+
+Destructor is called
+
+Destructor is called
+
+Destructor is called
+*Description:Implementation of constructor and destructor
+*Date:13-09-2021
+*Author: Shruti Nahar */
+/////////////////////////////////////////
 #include<iostream>
 #include<string.h>
 using namespace std;
