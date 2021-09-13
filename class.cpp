@@ -1,3 +1,29 @@
+/////////////////////////////////////
+/*Input:enter the id of the product 101
+        enter the name of the product laptop
+        enter the price of product 200000
+        enter the Quantity of product 2
+
+         enter the id of the product 102
+         enter the name of the product mobile
+         enter the price of product 350000
+         enter the Quantity of product 3
+*Output:
+Id of product 101
+Name of product laptop
+Price of product 200000
+Quantity of product 2
+
+Id of product 102
+Name of product mobile
+Price of product 350000
+Quantity of product 3
+
+*Description:Real time shopping application using class
+*Date:13-09-2021
+*Author: Shruti Nahar */
+
+
 //common feature of class is called as variable and object are their types
 //class is basic buleprint of object
 //imagination of class features is called blueprint
