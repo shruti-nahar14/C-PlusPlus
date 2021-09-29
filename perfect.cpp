@@ -3,7 +3,7 @@ output:-
        Perfect number 6
        Perfect number 28
 description:Enter a number from user and display perfect till the number
-date: 28-09-2021
+date: 29-09-2021
 Author name: Shruti Nahar*/
 #include<iostream>
 using namespace std;
